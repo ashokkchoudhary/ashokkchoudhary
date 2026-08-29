@@ -2,15 +2,11 @@
 
 I'm a Computer Science Engineering student passionate about learning new technologies and building real-world projects. I enjoy exploring new ideas, improving my problem-solving skills, and turning what I learn into practical applications. 🚀
 
----
 
 # 🌐 Socials
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashokchoudhary0609@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashokchoudhary0609@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashokkchoudhary)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashokkchoudhary)
-
----
 
 # 💻 Tech Stack
 
